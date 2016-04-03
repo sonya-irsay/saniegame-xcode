@@ -1,0 +1,1 @@
+ejecta.include("Sanie/index.js");ejecta.include("Sanie/Circle.js");ejecta.include("Sanie/Pole.js");ejecta.include("index.html");
